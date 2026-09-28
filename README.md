@@ -27,27 +27,27 @@ Sou estudante e desenvolvedor em formação, interessado em **desenvolvimento de
 
 ## 💻 Tecnologias
 
-### 🎨 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠️ Ferramentas
+### Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
