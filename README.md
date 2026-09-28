@@ -12,16 +12,17 @@ Sou estudante e desenvolvedor em formação, interessado em **desenvolvimento de
 
 <p align="left">
   <a href="https://github.com/Yrrenn">
-    <img src="https://img.shields.io/badge/GitHub-Yrrenn-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/carloshenrick96/">
-  <img src="https://img.shields.io/badge/Instagram-carloshenrick96-181717?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/Carlos26771">
-  <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-</p>
 
+  <a href="https://instagram.com/carloshenrick96/">
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/Carlos26771">
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 💻 Tecnologias
